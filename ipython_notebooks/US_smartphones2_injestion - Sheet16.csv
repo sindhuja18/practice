@@ -1,0 +1,437 @@
+id,product_name
+1,Apple iPhone 4
+2,Apple iPhone 4S
+3,Apple iPhone 5
+4,Apple iPhone 5C
+5,Apple iPhone 5S
+6,Apple iPhone 6
+7,Apple iPhone 6 Plus
+8,Asus Zenfone 5 A501CG
+9,Asus Zenfone 6 A600CG / A601CG
+10,BlackBerry Bold 9900
+11,BlackBerry Curve 3G 9300
+12,Blackberry Curve 9320
+13,BlackBerry Curve 9360
+14,BlackBerry Passport
+15,BlackBerry Q10
+16,BlackBerry Q5
+17,BlackBerry Torch 9810
+18,BlackBerry Torch 9860
+19,BlackBerry Z10
+20,BlackBerry Z30
+21,Google Nexus 4
+22,Google Nexus 5
+23,Google Nexus 6
+24,HTC One 802d
+25,HTC One M8
+26,HTC ONE X S720E
+27,Huawei Ascend P6
+28,Huawei Ascend P7
+29,Huawei Honor 3C
+30,Lenovo A850
+31,Lenovo S930
+32,LG G-Flex
+33,LG G2
+34,LG G2 D802T
+35,LG G3 D855
+36,LG Optimus G E975
+37,LG Optimus L7 II P715
+38,Microsoft Lumia 535
+39,Moto G 2nd Gen
+40,Moto X
+41,Nokia Lumia 1020
+42,Nokia Lumia 1320
+43,Nokia Lumia 520
+44,Nokia Lumia 620
+45,Nokia Lumia 920
+46,Samsung Galaxy Ace S5830i
+47,Samsung Galaxy Alpha
+48,Samsung Galaxy Grand Duos I9082
+49,Samsung Galaxy Mega 5.8 I9152
+50,Samsung Galaxy Mega 6.3 I9200
+51,Samsung Galaxy Note 2 N7100
+52,Samsung Galaxy Note 3 N9000
+53,Samsung Galaxy Note 4
+54,Samsung Galaxy Note N-7000
+55,Samsung Galaxy S 2 I9100
+56,Samsung Galaxy S Duos S7562
+57,Samsung Galaxy S3
+58,Samsung Galaxy S4 I9500
+59,Samsung Galaxy S4 Mini I9192
+60,Samsung Galaxy S5
+61,Samsung Galaxy S5 Mini
+62,Samsung Galaxy Star Pro S7262
+63,Samsung Grand Prime
+64,Sony Xperia E1
+65,Sony Xperia E3
+66,Sony Xperia Ion
+67,Sony Xperia M
+68,Sony Xperia T2 Ultra
+69,Sony Xperia Tipo Dual
+70,Sony Xperia U
+71,Sony Xperia Z
+72,Sony Xperia Z1
+73,Sony Xperia Z1 Compact
+74,Sony Xperia Z2
+75,Sony Xperia Z3 Compact
+76,OnePlus One
+77,Samsung Galaxy Note Edge
+78,Samsung Galaxy S6
+79,Apple iPhone 3G
+80,Asus Zenfone 2
+81,BlackBerry Classic
+82,HTC one M9
+83,Lenovo vibe shot
+84,LG G3 Beat D722K
+85,LG G3 Stylus D690
+86,Microsoft Lumia 435
+87,Moto G
+88,Samsung Galaxy A3
+89,Samsung Galaxy A5
+90,Samsung Galaxy J1
+91,Samsung Galaxy S6 Edge
+92,Sony Xperia E4 Dual
+93,Sony Xperia M4 Aqua
+94,BlackBerry Leap
+95,HTC 8X C620E
+96,HTC Desire 626G Plus
+97,HTC Desire Eye
+98,HTC One M9+
+99,LG G FLEX2
+100,LG G4
+101,Sony Xperia Z3+
+102,HTC One E9 Plus
+103,Sony Xperia C4 Dual
+104,Lenovo K3 Note
+105,Samsung Galaxy J7
+106,Samsung Galaxy J5
+107,Moto G (3rd gen)
+108,OnePlus2
+109,Samsung Galaxy S6 Edge+
+110,BlackberryPorsche Design P9983
+111,Asus Zenfone 2 Deluxe
+112,Asus Zenfone 2 Laser
+113,AsusZenfone Selfie
+114,Samsung Galaxy Note 5
+115,Sony Xperia C5 Ultra Dual
+116,Sony Xperia Z5 Premium
+117,Sony Xperia M5
+118,Apple iPhone 6S
+119,Apple iPhone 6S Plus
+120,Sony Xperia Z5 Compact
+121,Samsung Galaxy J2
+122,Motorola Moto X Play
+123,MotorolaMoto X Style
+124,LG Nexus 5X
+125,Huawei Nexus 6P
+126,Asus Zenfone Go
+127,Oneplus X
+128,Lenovo Vibe P1
+129,Samsung Galaxy On5
+130,Samsung Galaxy On7
+131,Asus ZenFone 2 Deluxe Special Edition
+132,Asus Zenfone Max
+133,Asus ZenFone 2 Laser ZE500KL
+134,Asus ZenFone Zoom ZX550
+135,Asus ZenFone 2 ZE551ML
+136,BlackBerry Priv
+137,HTC One A9
+138,Huawei P8Lite
+139,Lenovo Vibe X3
+140,Lenovo Vibe S1
+141,Lenovo Golden Warrior S8 A7600
+142,LG V10
+143,LG G Stylo
+144,Microsoft Lumia 950 XL
+145,Microsoft Lumia 950 Dual SIM
+146,Microsoft Lumia 640 XL LTE Dual SIM
+147,Microsoft Lumia 640 LTE Dual SIM
+148,Motorola Droid Turbo 2
+149,Motorola Moto E (2nd Gen) 4G
+150,Samsung Galaxy J3
+151,Samsung Galaxy J1 4G
+152,Sony Xperia Z5 Premium Dual
+153,Sony Xperia Z5 Dual
+154,Xiaomi Redmi Note 3
+155,Samsung Galaxy A7 (2016)
+156,Samsung Galaxy A5 (2016)
+157,Samsung Galaxy A3 (2016)
+158,Huawei Honor 5X
+159,Motorola Moto X Force
+160,Oukitel K10000
+161,Samsung Galaxy Note 5 Dual SIM
+162,Samsung Galaxy S5 Neo
+163,Xiaomi Redmi 3
+164,Lenovo ZUK Z1
+165,Samsung Galaxy S7
+166,Samsung Galaxy S7 Edge
+167,LG G5
+168,Sony Xperia XA Dual
+169,Apple iPhone SE
+170,Sony Xperia X Performance Dual
+171,HTC 10
+172,Apple iPhone 3GS
+173,Huawei P9
+174,Huawei P9 Plus
+175,Huawei P9 Lite
+176,Samsung Galaxy J5 (2016)
+177,Samsung Galaxy J7 (2016)
+178,Nokia Lumia 900
+179,Nokia Lumia 800
+180,Moto G (4th Gen)
+181,Motorola Moto G4 Plus
+182,Sony Xperia XA Ultra
+183,LG K10
+184,OnePlus 3
+185,BlackBerry Neon (DTEK50)
+186,Asus Zenfone 3 ZE520KL
+187,Asus zenfone 3 Ultra
+188,Motorola Moto Z
+189,Motorola Moto Z Force
+190,Motorola Moto G Play
+191,Huawei Honor 8
+192,Samsung Galaxy S8
+193,Apple iphone 7
+194,Apple iPhone 7 Plus
+195,Asus Zenfone 3 ZE552KL
+196,Alcatel OneTouch Idol 3
+197,BLU Advance 4.0
+198,BLU Advance 5.0 HD
+199,BLU R1 HD
+200,BLU Studio 6.0 HD
+201,BLU Studio Selfie 2
+202,BLU Vivo 5
+203,BLU Vivo XL
+204,LG Tribute 5
+205,Motorola Moto X pure
+206,Samsung Galaxy S3 Mini
+207,Google Pixel
+208,Google Pixel XL
+209,Alcatel OneTouch Conquest
+210,Alcatel OneTouch Fierce XL
+211,Alcatel OneTouch Idol 3 (5.5)
+212,Alcatel OneTouch Pop 3 (5.5) 4G
+213,Alcatel OneTouch Pop 3 (5) 4G
+214,Alcatel OneTouch Pop Astro
+215,Asus ZenFone 2 Laser ZE601KL
+216,Asus ZenFone Selfie
+217,Blackview A8
+218,Blackview Alife P1 Pro
+219,Blackview BV2000
+220,Blackview BV2000S
+221,Blackview BV5000
+222,Blackview Omega
+223,Blackview Omega Pro
+224,Blackview Ultra
+225,Blackview Zeta
+226,BLU Dash Jr
+227,BLU Dash Jr K
+228,BLU Dash M2
+229,BLU Life One (2015)
+230,BLU Life One X (2016)
+231,BLU Life One XL
+232,BLU Life XL 4G
+233,BLU Pure XL
+234,BLU Studio 5.0 II
+235,BLU Studio 5.0 LTE
+236,BLU Studio C HD
+237,BLU Vivo Air
+238,BLU Vivo Air LTE
+239,BLU Win HD LTE
+240,Bluboo Picasso
+241,Bluboo X4
+242,Bluboo X9
+243,Bluboo Xfire
+244,Bluboo Xfire 2
+245,Cat S40
+246,Cat S50
+247,Coolpad Dazen F2
+248,Coolpad Dazen X7
+249,Coolpad Rogue
+250,Coolpad Y76
+251,Cubot H2
+252,Cubot S350
+253,Cubot X15
+254,Cubot Z100
+255,Doogee Collo 3 DG110
+256,Doogee Dagger DG550
+257,Doogee Valencia 2 Y100 Plus
+258,Doogee X5 Pro
+259,Doogee X6
+260,Doogee Y200
+261,Elephone P5000
+262,Elephone P7000 Pioneer
+263,Elephone P6i
+264,Elephone P9000
+265,Elephone Trunk
+266,Gionee Elife E3
+267,Gionee Elife E7 mini
+268,HomTom HT3
+269,HomTom HT3 Pro
+270,HomTom HT7
+271,HomTom HT7 Pro
+272,HTC Desire 626 (USA)
+273,HTC Desire 626s
+274,HTC One M7
+275,Huawei Enjoy 5
+276,Huawei G7 Plus
+277,Huawei Honor 4A
+278,Huawei Honor 4C Play
+279,Huawei Honor 7i
+280,Huawei Maimang 4
+281,Huawei Mate 8
+282,Huawei Mate S
+283,Huawei P8
+284,Huawei P8Max
+285,Huawei SnapTo
+286,Huawei Union
+287,iNew U3
+288,iNew U5
+289,iNew U5W
+290,Intex Aqua Y2 Power
+291,Jiake M8
+292,Jiake N9200
+293,JiaYu G2F
+294,Kazam Trooper 451
+295,KingZone K2
+296,KingZone N5
+297,KingZone Z1 Plus
+298,Kyocera Hydro Air
+299,Kyocera Hydro Wave
+300,Landvo L500S
+301,Lava Iris Atom 3
+302,Lava Iris Fuel F2
+303,Lava P7
+304,Lava X81
+305,LeEco Le 2 Pro X25
+306,LeEco Le Max2
+307,Lenovo A916
+308,Lenovo Golden Warrior A8
+309,Lenovo Golden Warrior S8
+310,Lenovo K3
+311,Lenovo S860
+312,Lenovo S898T+ 8 GB
+313,Lenovo S939
+314,Lenovo Vibe X
+315,Lenovo Vibe X2
+316,Lenovo Vibe Z2 Pro
+317,LeTV Le 1s
+318,LeTV One
+319,LG G3 Cat.6
+320,LG K4 LTE
+321,LG K7
+322,LG Optimus Exceed 2
+323,LG Optimus G Pro
+324,Meizu m2
+325,Meizu m2 note
+326,Meizu MX4
+327,Meizu MX4 Pro
+328,Meizu MX5
+329,Micromax Bolt A61
+330,Micromax Canvas Blaze 4G Q400
+331,Micromax Canvas Mega E353
+332,Micromax Canvas Selfie 2 Q340
+333,Micromax Canvas Sliver 5 Q450
+334,Microsoft Lumia 532
+335,Microsoft Lumia 550
+336,Microsoft Lumia 650
+337,Microsoft Lumia 650 Dual SIM
+338,Mlais M52 Red Note
+339,Motorola ATRIX HD
+340,Motorola DEFY XT
+341,Motorola DROID Maxx
+342,Motorola DROID RAZR M
+343,Motorola DROID RAZR MAXX HD
+344,Motorola Moto X (2nd Gen)
+345,MPIE Mini 809T
+346,Nokia Lumia 1520
+347,Nokia Lumia 521
+348,Nokia Lumia 525
+349,Nokia Lumia 530
+350,Nokia Lumia 625
+351,Nokia Lumia 630
+352,Nokia Lumia 630 Dual SIM
+353,Nokia Lumia 635
+354,Nokia Lumia 735
+355,Nokia Lumia 810
+356,Nokia Lumia 820
+357,Nokia Lumia 822
+358,Nokia Lumia 830
+359,Nokia Lumia 925
+360,Nokia Lumia 928
+361,Nokia Lumia 930
+362,Nokia Lumia Icon
+363,Nokia X
+364,Nokia XL
+365,Oppo A31
+366,Oppo Mirror 5s
+367,Oppo R7 Plus High Version
+368,Oppo R9
+369,Oukitel C2
+370,Oukitel K4000
+371,Oukitel K4000 Pro
+372,Oukitel K6000 Pro
+373,Oukitel Original One
+374,Oukitel Original Pure
+375,Oukitel U7
+376,Oukitel U8 Universe Tap
+377,Panasonic Lumix Smart Camera CM1
+378,Pantech Discover
+379,Pantech Flex
+380,Pantech Vega Secret Up
+381,Posh Mobile Icon S510
+382,Posh Mobile Revel Pro X510
+383,Posh Mobile Titan Max HD E600
+384,Posh Mobile Titan Pro HD E550
+385,Posh Mobile Ultra 5.0 LTE
+386,Sharp Aquos Crystal
+387,Sony Xperia Z5
+388,TCL Idol X
+389,Uhappy UP520
+390,Ulefone Be Pro
+391,Ulefone Be Pro 2
+392,Ulefone Be Pure
+393,Ulefone Be Touch 2
+394,Ulefone Be Touch 3
+395,Ulefone Paris
+396,Ulefone Power
+397,Ulefone Vienna
+398,UMi Rome
+399,UMi Rome X
+400,UMi Touch X
+401,Verykool Fusion II SL4502
+402,Verykool Leo JR s4005
+403,Verykool Maverick LTE SL5550
+404,Verykool Spark LTE SL5011
+405,Vivo X5Pro
+406,Vivo X6
+407,Vivo X6Plus
+408,Vivo Xplay5
+409,VKworld F1
+410,VKworld T2
+411,VKworld T3
+412,VKworld T6
+413,VKworld VK560
+414,VKworld VK700
+415,VKworld VK700X
+416,VKworld VK800X
+417,Yezz Andy 4E LTE
+418,Zopo Color C ZP330
+419,Zopo Hero 1
+420,Zopo Speed 7
+421,ZTE Avid 4G
+422,ZTE Avid Plus
+423,ZTE Axon
+424,ZTE Axon Pro
+425,ZTE Blade S6
+426,ZTE Director
+427,ZTE Imperial
+428,ZTE Maven
+429,ZTE Obsidian
+430,ZTE Rapido
+431,ZTE Solar
+432,ZTE Sonata 4G
+433,ZTE Star 1
+434,ZTE V5S
+435,ZTE Warp 4G
+436,ZTE Warp Elite
